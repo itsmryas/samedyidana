@@ -1,6 +1,6 @@
 - 👋 Hi, I’m YAS
 - 👀 I’m interested in web development, graphic design and largely IOT
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python for data analytics
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 You can reach me at yas@creativeheightsltd.com
 
